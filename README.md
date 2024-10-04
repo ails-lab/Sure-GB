@@ -134,11 +134,5 @@ An example of the full pipeline is given in Example Pipeline.ipynb
 
 ## Citation
 ```bibtex
-@inproceedings{Ross2020ExplainingNM,
-    title = "Explaining NLP Models via Minimal Contrastive Editing (MiCE)",
-    author = "Ross, Alexis  and Marasovi{\'c}, Ana  and Peters, Matthew E.",
-    booktitle = "Findings of the Association for Computational Linguistics: ACL 2021",
-    publisher = "Association for Computational Linguistics",
-    url= "https://arxiv.org/abs/2012.13985",
-}
+Mastromichalakis, O. M., Filandrianos, G., Tsouparopoulou, E., Parsanoglou, D., Symeonaki, M., & Stamou, G. (2024). GOSt-MT: A Knowledge Graph for Occupation-related Gender Biases in Machine Translation. arXiv preprint arXiv:2409.10989.
 ```
