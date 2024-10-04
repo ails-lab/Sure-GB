@@ -136,3 +136,4 @@ An example of the full pipeline is given in Example Pipeline.ipynb
 ```bibtex
 Mastromichalakis, O. M., Filandrianos, G., Tsouparopoulou, E., Parsanoglou, D., Symeonaki, M., & Stamou, G. (2024). GOSt-MT: A Knowledge Graph for Occupation-related Gender Biases in Machine Translation. arXiv preprint arXiv:2409.10989.
 ```
+![Alt text](https://raw.githubusercontent.com/ails-lab/Sure-GB/refs/heads/main/logo.png)
