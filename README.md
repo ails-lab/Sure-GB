@@ -138,5 +138,5 @@ Mastromichalakis, O. M., Filandrianos, G., Tsouparopoulou, E., Parsanoglou, D., 
 ```
 
 <p align="center">
-  <img src="[https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true](https://raw.githubusercontent.com/ails-lab/Sure-GB/refs/heads/main/logo.png)" alt="Sublime's custom image"/>
+  <img src="https://raw.githubusercontent.com/ails-lab/Sure-GB/refs/heads/main/logo.png" alt="Sublime's custom image"/>
 </p>
